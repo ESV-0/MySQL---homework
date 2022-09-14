@@ -40,3 +40,4 @@ SELECT
 FROM products AS p
 LEFT JOIN catalogs AS c ON p.catalog_id = c.id;
 
+
